@@ -31,22 +31,21 @@ li {
 	border-radius: 3px;
 	list-style-type: none;
 }
-
+.title{
+	padding: 5px;
+	border: 2px solid gray;
+}
 .new {
 	background-color: #FF8877;
-	border: 2px solid gray;
 }
 .progress {
 	background-color: #FFFF99;
-	border: 2px solid gray;
 }
 .archived {
 	background-color: #66AA66;
-	border: 2px solid gray;
 }
 .create{
 	background-color: #C0C0C0;
-	border: 2px solid gray;
 }
 img{
 	width: 90%;
